@@ -1,4 +1,4 @@
-# This has been edited by Jing and see what's going to change in the future
+# This has been edited by Jing and John and see what's going to change in the future
 from adding import add_two, add_three
 
 def main():
